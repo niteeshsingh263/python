@@ -1,9 +1,9 @@
-for i in range(1,8,2):
+for i in range(0,8,3):
     print(i)
 
 #multiplication table
 
-num = float(input("enter a number here"))
+num = int(input("enter a number here"))
 
 n = num
 
